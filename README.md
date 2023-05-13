@@ -1,2 +1,2 @@
 # Modern-JavaScript
-JavaScript Mastery 
+JavaScript Mastery with Brad Traversy course
